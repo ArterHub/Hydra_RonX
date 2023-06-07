@@ -13,6 +13,7 @@ You can use in
  > payments "Font-End" : $19.85
  > payments "Back-End" : $26.27
  > Add-On "5 Packs" : $35.48
+ > Add-On "Back-End" : $60.85
 ```
 
 > payment this plugin add discord.
